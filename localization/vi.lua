@@ -134,7 +134,7 @@ return {
                 text = {
                     "Bắt đầu với một {C:attention}Joker {C:cry_exotic}Ngoại Lai",
                     "Tăng xác suất xuất hiện Joker",
-                    "{C:dark_edition}Âm bản lên {C:attention}20 lần",
+                    "{C:dark_edition}Âm bản{} lên {C:attention}20 lần",
                     "{C:attention}-2{} ô Joker",
                 },
             },
@@ -143,7 +143,7 @@ return {
                 text = {
                     "Bắt đầu với một Joker {C:legendary}Huyền Thoại",
                     "Xác suất {C:green}1 trên 5{}tạo thêm một lá nữa",
-					"khi Boss Blind bị đánh bại {C:inactive}(Phải có ô trống)",
+		"khi Boss Blind bị đánh bại {C:inactive}(Phải có ô trống)",
                 },
             },
         },
